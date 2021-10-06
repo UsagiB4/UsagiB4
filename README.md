@@ -1,10 +1,6 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35" alt="hand">, I'm Usagi</h1>
 <h3 align="center">Just a random person with hobby</h3>
 <p align="center"><img src = "https://media.tenor.com/images/25c4a35abf7e1f13489fabedcc474f9c/tenor.gif" alt="im sad"></p>
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
 
 - 🌱 I’m currently learning **IoT**
 
