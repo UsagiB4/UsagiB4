@@ -7,7 +7,7 @@
 - ⚡ Fun fact **I am a Programmer**
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
