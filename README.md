@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35" alt="hand">, I'm Usagi</h1> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35" alt="hand">, I'm Usagi  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Just a random person with hobby</h3>
 <p align="center"><img src = "https://media.tenor.com/images/25c4a35abf7e1f13489fabedcc474f9c/tenor.gif" alt="im sad"></p>
 
