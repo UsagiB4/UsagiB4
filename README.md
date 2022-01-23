@@ -20,7 +20,13 @@
 <a href="https://github.com/UsagiB4/UsagiB4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsagiB4&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=7" />
 </a>
-
+<br>
 <a href="https://github.com/UsagiB4/Esp8266_Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsagiB4&repo=Esp8266_Learning&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsagiB4&repo=Esp8266_Learning&title_color=ff0062&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/UsagiB4/LFI-suite-issue-solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsagiB4&repo=LFI-suite-issue-solver&title_color=7fff00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/UsagiB4/Beginner_Python_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UsagiB4&repo=Beginner_Python_Project&title_color=6495ed&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
