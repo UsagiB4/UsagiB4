@@ -2,9 +2,11 @@
 ### Just a random person with hobby</h3>
 <img src = "https://media.tenor.com/images/25c4a35abf7e1f13489fabedcc474f9c/tenor.gif" alt="im sad">
 
-- 🌱 I’m currently learning **IoT**
+🌱 I’m currently learning:
+- **IoT**
+- **Python GUI**
 
-- ⚡ Fun fact **I am a Programmer**
+⚡ Fun fact **I am a Programmer**
 
 
 ### Languages and Tools
