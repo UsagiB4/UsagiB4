@@ -1,4 +1,4 @@
-# Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35" alt="hand">, [I'm Usagi](https://usagib4.github.io/my_folio/)  <img height="40" src="https://emojis.slackmojis.com/emojis/images/1618254774/29874/rabbits_plz.gif?1618254774"/>
+# 🇵🇸 Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="35" alt="hand">, [I'm Usagi](https://usagib4.github.io/my_folio/)  <img height="40" src="https://emojis.slackmojis.com/emojis/images/1618254774/29874/rabbits_plz.gif?1618254774"/>
 ### Just a random person with hobby</h3>
 <img src = "https://media.tenor.com/images/25c4a35abf7e1f13489fabedcc474f9c/tenor.gif" alt="im sad">
 
