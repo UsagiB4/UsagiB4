@@ -3,20 +3,26 @@
 <img src = "https://media.tenor.com/images/25c4a35abf7e1f13489fabedcc474f9c/tenor.gif" alt="im sad">
 
 🌱 I’m currently learning:
-- **IoT**
-- **Python GUI**
+- **ETH**
+- **CSRF**
+- **Broken Access Control**
+- **IDOR**
+- **SDR**
 
 ⚡ Fun fact **I am a Programmer**
 
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg)
+![C](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
 
 
 <a href="https://github.com/UsagiB4/UsagiB4">
