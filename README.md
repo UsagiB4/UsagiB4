@@ -9,8 +9,6 @@
 - **IDOR**
 - **SDR**
 
-⚡ Fun fact **I am a Programmer**
-
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
